@@ -1,18 +1,9 @@
-/*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
     background: url(base.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
         margin-top: -280px;*/
-}
-
-.ds4 .abxy {
-    position: absolute;
-    width: 170px;
-    height: 171px;
-    top: 159px;
-    left: 567px;
 }
 
 .ds4 .button {
@@ -48,4 +39,3 @@
     background-position: 55px 0;
     left: 58px;
 }
-/*END PS4 Controller Styling*/
